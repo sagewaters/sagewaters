@@ -1,16 +1,17 @@
-### Hi there 👋
+### Sage Waters on Github
 
 <!--
 **sagewaters/sagewaters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- You can find me on https://sagewaters.com
+- Or on the Instagram thing at https://instagram.com/sage.waters
+- Then there's the Facebook at https://fb.com/sage.waters
+
 -->
+
+
+- You can find me on https://sagewaters.com
+- Or on the Instagram thing at https://instagram.com/sage.waters
+- Then there's the Facebook at https://fb.com/sage.waters

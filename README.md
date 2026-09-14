@@ -5,11 +5,10 @@
 
 Here are some ideas to get you started:
 
-- You can find me on https://sagewaters.com
+You can find me on https://sagewaters.com
 
 
 -->
 
-
-- You can find me on https://sagewaters.com
+You can find me on https://sagewaters.com
 
